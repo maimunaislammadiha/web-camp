@@ -3,7 +3,7 @@
 ========================================= */
 
 /* Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('ebb436600b21f77a70d5ebfa0581de7e.jpg');
 
 /* Reset */
 *{
@@ -18,7 +18,7 @@ body{
     min-height:100vh;
     background:
     linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.65)),
-    url("https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=1600&auto=format&fit=crop");
+    url("ebb436600b21f77a70d5ebfa0581de7e.jpg");
     
     background-size:cover;
     background-position:center;
@@ -160,7 +160,7 @@ section p{
 
 /* SKILL ITEM */
 .skills li{
-    background:linear-gradient(135deg,#00f7ff,#0077ff);
+    background:linear-gradient(135deg,#17393a,#0077ff);
     padding:18px;
     border-radius:15px;
     text-align:center;
@@ -190,7 +190,7 @@ footer{
     border-radius:20px;
     background:rgba(255,255,255,0.08);
     backdrop-filter:blur(10px);
-    border:1px solid rgba(255,255,255,0.2);
+    border:1px solid rgba(160, 89, 89, 0.2);
 }
 
 /* FOOTER TEXT */
@@ -241,7 +241,7 @@ footer{
         box-shadow:0 0 20px rgba(0,247,255,0.15);
     }
     to{
-        box-shadow:0 0 35px rgba(255,79,216,0.35);
+        box-shadow:0 0 35px rgba(45, 23, 41, 0.35);
     }
 }
 
@@ -249,7 +249,7 @@ footer{
 @media(max-width:768px){
 
     header h1{
-        font-size:36px;
+        font-size:50px;
     }
 
     .profile-image{
